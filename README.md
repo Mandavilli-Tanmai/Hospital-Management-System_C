@@ -43,4 +43,3 @@ Input Validation: Ensures valid inputs for slot selection and doctor choice.
 Purpose:
 This program is designed for small-scale hospital management, helping users efficiently handle appointments for two doctors while maintaining simplicity and clarity in operations.
 
-Let me know if you'd like me to explain any part in detail! 🚑✨
